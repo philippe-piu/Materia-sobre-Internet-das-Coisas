@@ -1,0 +1,8 @@
+Configurar a rede nos dispositivos:
+Após montagem da topologia, o estudante deverá configurar os dispositivos
+com os seguintes endereços:
+Home Gateway: 10.1.1.1/24
+Laptop: DHCP
+Garage Door: 10.1.1.10/24
+Thermostat: 10.1.1.11/24
+Motion Detector: 10.1.1.12/24
